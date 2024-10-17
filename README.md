@@ -37,7 +37,7 @@
 ![image](https://github.com/user-attachments/assets/ec63076e-ef26-44e0-9a43-de7d8fd95647)
 
 ## Output:
-![image](https://github.com/user-attachments/assets/8165a865-6663-4d08-b650-0927bb3ea47f)
+![image](https://github.com/user-attachments/assets/50881892-e9b3-4bb1-b170-0572366870da)
 
 ## Result:
   Thus, the automation for filling a simple web form is implemented successfully.
