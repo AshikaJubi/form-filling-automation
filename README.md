@@ -34,8 +34,7 @@
   11. Save and Run the workflow.
 
 ## Workflow:
-![image](https://github.com/user-attachments/assets/ec63076e-ef26-44e0-9a43-de7d8fd95647)
-
+![alt text](image-1.png)
 ## Output:
 ![alt text](image.png)
 
