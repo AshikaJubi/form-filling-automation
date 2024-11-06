@@ -1,6 +1,6 @@
 # Exercise 8: Basic Web Automation - Fill a Web Form
 
-### Reg No : 212221040013
+### Reg No : 212221040020
 
 ## AIM: 
   To automate filling a simple web form with user data and submit.
@@ -37,7 +37,7 @@
 ![image](https://github.com/user-attachments/assets/ec63076e-ef26-44e0-9a43-de7d8fd95647)
 
 ## Output:
-![image](https://github.com/user-attachments/assets/50881892-e9b3-4bb1-b170-0572366870da)
+![alt text](image.png)
 
 ## Result:
   Thus, the automation for filling a simple web form is implemented successfully.

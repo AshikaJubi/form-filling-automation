@@ -1,5 +1,6 @@
 {
   "name": "Form Filling",
+  "projectId": "15e74048-3c35-4772-8278-49156aa35e22",
   "description": "Simple Form FIlling Automation ",
   "main": "Main.xaml",
   "dependencies": {
@@ -20,6 +21,7 @@
     "isAttended": false,
     "requiresUserInteraction": true,
     "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
     "excludedLoggedData": [
       "Private:*",
       "*password*"
@@ -27,7 +29,8 @@
     "executionType": "Workflow",
     "readyForPiP": false,
     "startsInPiP": false,
-    "mustRestoreAllDependencies": true
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
   },
   "designOptions": {
     "projectProfile": "Developement",
@@ -40,7 +43,7 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true
+    "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
